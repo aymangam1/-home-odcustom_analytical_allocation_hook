@@ -14,7 +14,7 @@
     'website': "https://www.yourcompany.com",
     'category': 'Uncategorized',
     'version': '16.0.0.1',
-    'depends': ['base','account'],
+    'depends': ['base','account', 'custom_analytical_allocation_2'],
 
     'data': [
         # 'security/ir.model.access.csv',
